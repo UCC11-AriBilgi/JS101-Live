@@ -3,3 +3,7 @@ Amac HTML tarafını daha bir etkileşimli kılmak.Java ile karıştırılmamal�
 
 Nereye yazılır:
 - Sayfa içi <script> </script> body elementi veya head elementi içinde..
+
+Yazım kuralları
+- her satırın bittği ; karakteri
+- Süslü parantez/blok yapısı burada da var. 
