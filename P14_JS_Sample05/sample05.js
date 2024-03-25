@@ -4,8 +4,8 @@
     var index;
 
     for (index = 0; index < element.length; index++) {
-        /*element[index].innerHTML = "İçerik JS ile değiştirildi";*/
-        element[index].style.color = red;
-        /*element[index].style.fontSize = 20;*/
+        element[index].style.color = "green";
+        element[index].style.fontSize = 20;
+
     }
 }
