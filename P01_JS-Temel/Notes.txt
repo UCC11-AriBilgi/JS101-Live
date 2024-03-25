@@ -1,0 +1,5 @@
+﻿* Nedir ?
+Amac HTML tarafını daha bir etkileşimli kılmak.Java ile karıştırılmamalıdır.
+
+Nereye yazılır:
+- Sayfa içi <script> </script> body elementi veya head elementi içinde..
