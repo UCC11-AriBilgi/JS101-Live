@@ -135,6 +135,50 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "P14_JS_Sample05", "P14_JS_S
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "P015_JS_Sample06", "P015_JS_Sample06\", "{40AB0798-FE01-46C0-B58C-A9212576CD91}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55524"
+		Debug.AspNetCompiler.PhysicalPath = "P015_JS_Sample06\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55524\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55524"
+		Release.AspNetCompiler.PhysicalPath = "P015_JS_Sample06\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55524\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55524"
+		SlnRelativePath = "P015_JS_Sample06\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "P16_JS_Sample07", "P16_JS_Sample07\", "{DFAD55B5-62E5-42F2-8860-2AF2715AA7AD}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55899"
+		Debug.AspNetCompiler.PhysicalPath = "P16_JS_Sample07\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55899\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55899"
+		Release.AspNetCompiler.PhysicalPath = "P16_JS_Sample07\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55899\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55899"
+		SlnRelativePath = "P16_JS_Sample07\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -152,6 +196,10 @@ Global
 		{56A833A4-23D9-47F8-A854-D5AA456BAC2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E624978-B1F0-4AF5-8581-97B2141BEA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1E624978-B1F0-4AF5-8581-97B2141BEA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AB0798-FE01-46C0-B58C-A9212576CD91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AB0798-FE01-46C0-B58C-A9212576CD91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAD55B5-62E5-42F2-8860-2AF2715AA7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAD55B5-62E5-42F2-8860-2AF2715AA7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

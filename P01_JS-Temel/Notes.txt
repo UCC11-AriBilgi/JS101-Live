@@ -6,4 +6,7 @@ Nereye yazılır:
 
 Yazım kuralları
 - her satırın bittği ; karakteri
-- Süslü parantez/blok yapısı burada da var. 
+- Süslü parantez/blok yapısı burada da var.
+
+-JS de aynı c# gibi büyük küçük harf duyarlıdır.
+-Değişken tanımlamaları da C# la benzerlik gösteriyor
