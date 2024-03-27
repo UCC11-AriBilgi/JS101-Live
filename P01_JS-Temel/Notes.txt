@@ -10,3 +10,13 @@ Yazım kuralları
 
 -JS de aynı c# gibi büyük küçük harf duyarlıdır.
 -Değişken tanımlamaları da C# la benzerlik gösteriyor
+
+Operatörler;
+Aritmetik +-*/%,
+artırma/azaltma x++,++x,x--,--x,
+ilişki ==,!=,>,<,>=,<=,
+mantıksal && ||,
+atama = += -= /= *=...
+
+Operatörde öncelik sırası
+(),x++,x--,++x,--x,*/%,+-....
