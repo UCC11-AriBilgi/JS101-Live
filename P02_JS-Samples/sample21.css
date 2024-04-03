@@ -1,0 +1,30 @@
+﻿body {
+}
+
+.slider{
+    font:19px arial;
+    margin: 0px auto;
+    position: relative;
+    width:700px;
+    height:300px;
+    overflow:hidden;
+}
+
+.at{
+    width:50%;
+    height:300px;
+}
+
+.kontrol{
+    position: absolute;
+    right:0px;
+    bottom:10px;
+}
+
+.kontrol a{
+    color:#ffffff; /*beyaz rengin diğer bir gösterim şekli*/ 
+    background-color:black;
+    padding:10px;
+    text-decoration: none;
+    cursor: pointer;
+}
